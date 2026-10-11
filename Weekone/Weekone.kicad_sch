@@ -1533,6 +1533,66 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 19.05 17.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2575fdc0-d9ab-4eaa-a78c-8cbcb8f28fc8")
+	)
+	(junction
+		(at 19.05 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56080437-6602-4e42-b0dd-6a12b6d69182")
+	)
+	(junction
+		(at 20.32 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "77859121-762a-44f5-857c-e2929c39e1dc")
+	)
+	(junction
+		(at 147.32 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "83d1db46-6cac-4909-9e46-a15dfde25f20")
+	)
+	(junction
+		(at 147.32 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ab4e3fc-c1fd-4547-9ed5-9ef0ccc33abf")
+	)
+	(junction
+		(at 83.82 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cb0af85-93f4-44bb-a724-e271b992c95b")
+	)
+	(junction
+		(at 217.17 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c160821f-0754-47bc-83fa-bbb64772a1e7")
+	)
+	(junction
+		(at 83.82 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c291fd37-e5a9-447c-9f78-5412a6313b5e")
+	)
+	(junction
+		(at 147.32 17.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce904a63-aac0-41a0-a9e0-ed3f0696b2f4")
+	)
+	(junction
+		(at 82.55 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f57d1f33-299a-4117-baa8-e1fffd22570a")
+	)
 	(no_connect
 		(at 20.32 124.46)
 		(uuid "15afd1a2-77a6-41ee-9d89-ed2a2131e6d0")
@@ -1607,6 +1667,26 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 48.26) (xy 196.85 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0454cca5-e28e-412c-bedf-c6b2d7da6db0")
+	)
+	(wire
+		(pts
+			(xy 201.93 60.96) (xy 147.32 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "085ea96b-6b7c-418d-9383-1babe1e8deb5")
+	)
+	(wire
+		(pts
 			(xy 132.08 81.28) (xy 132.08 146.05)
 		)
 		(stroke
@@ -1614,6 +1694,16 @@
 			(type default)
 		)
 		(uuid "08c7e190-0131-4a6f-9f12-53ecba8242c8")
+	)
+	(wire
+		(pts
+			(xy 203.2 102.87) (xy 20.32 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b1e1bbc-5e61-4c86-9b4f-514ff391ff75")
 	)
 	(wire
 		(pts
@@ -1747,6 +1837,16 @@
 	)
 	(wire
 		(pts
+			(xy 203.2 71.12) (xy 203.2 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e7762fc-c49f-464d-98f0-19cab3c8948e")
+	)
+	(wire
+		(pts
 			(xy 54.61 31.75) (xy 58.42 31.75)
 		)
 		(stroke
@@ -1787,6 +1887,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 120.65) (xy 85.09 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "294798ba-536d-4272-bc45-d3bd23a0bf3e")
+	)
+	(wire
+		(pts
 			(xy 85.09 81.28) (xy 81.28 81.28)
 		)
 		(stroke
@@ -1807,6 +1917,26 @@
 	)
 	(wire
 		(pts
+			(xy 20.32 102.87) (xy 20.32 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d129e61-e361-4b80-90cc-f616b1b6f1ce")
+	)
+	(wire
+		(pts
+			(xy 217.17 92.71) (xy 182.88 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3204c9f1-0ca3-431a-856c-816e261847e1")
+	)
+	(wire
+		(pts
 			(xy 85.09 40.64) (xy 81.28 40.64)
 		)
 		(stroke
@@ -1814,6 +1944,26 @@
 			(type default)
 		)
 		(uuid "348339a4-7e4a-44e9-bdbb-490386acea1c")
+	)
+	(wire
+		(pts
+			(xy 147.32 13.97) (xy 217.17 13.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3815aacf-96ab-4a67-b374-a630958832bb")
+	)
+	(wire
+		(pts
+			(xy 147.32 13.97) (xy 147.32 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39a68f9f-a2cd-4355-b469-5f3f09b851d1")
 	)
 	(wire
 		(pts
@@ -1827,6 +1977,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 13.97) (xy 19.05 13.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3af76ce9-11e4-4ccf-a61e-e9353d4f41a0")
+	)
+	(wire
+		(pts
 			(xy 147.32 66.04) (xy 158.75 66.04)
 		)
 		(stroke
@@ -1834,6 +1994,16 @@
 			(type default)
 		)
 		(uuid "3bdf3348-0d39-4f60-9851-2934c47fc8bc")
+	)
+	(wire
+		(pts
+			(xy 162.56 52.07) (xy 165.1 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bf06474-9f23-4e56-8207-9fc867c405af")
 	)
 	(wire
 		(pts
@@ -1857,6 +2027,36 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 60.96) (xy 147.32 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42a56b4c-9f2d-47a9-ba88-c8113c741f51")
+	)
+	(wire
+		(pts
+			(xy 196.85 21.59) (xy 60.96 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42cf2442-3ef4-4dcd-aa7a-9fd0d699dbac")
+	)
+	(wire
+		(pts
+			(xy 209.55 82.55) (xy 217.17 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44ce76e9-c7ec-445a-aa68-57c401b548d9")
+	)
+	(wire
+		(pts
 			(xy 31.75 151.13) (xy 31.75 156.21)
 		)
 		(stroke
@@ -1877,6 +2077,26 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 13.97) (xy 217.17 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4719aa03-1529-41e5-9bb3-97949535ab83")
+	)
+	(wire
+		(pts
+			(xy 120.65 81.28) (xy 132.08 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49ab7c84-38b1-4174-b7df-563432148060")
+	)
+	(wire
+		(pts
 			(xy 195.58 143.51) (xy 195.58 82.55)
 		)
 		(stroke
@@ -1887,13 +2107,43 @@
 	)
 	(wire
 		(pts
-			(xy 84.7091 33.02) (xy 84.7091 19.05)
+			(xy 83.82 33.02) (xy 83.82 19.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4d0a1ba5-13de-4bdc-bc68-25102c91c3e3")
+	)
+	(wire
+		(pts
+			(xy 217.17 36.83) (xy 201.93 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e711023-0ce1-452a-8234-2870c8f3a301")
+	)
+	(wire
+		(pts
+			(xy 60.96 21.59) (xy 60.96 13.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f07d26f-964f-407a-bdc3-0a298d979a41")
+	)
+	(wire
+		(pts
+			(xy 19.05 13.97) (xy 19.05 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52705f7e-b83b-49f7-9b83-db818597fe7c")
 	)
 	(wire
 		(pts
@@ -1907,16 +2157,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 81.28) (xy 132.08 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5643dfc2-7b85-4923-95fd-460f967be7e7")
-	)
-	(wire
-		(pts
 			(xy 81.28 127) (xy 81.28 175.26)
 		)
 		(stroke
@@ -1927,6 +2167,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 106.68) (xy 147.32 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5982ce6b-8dc5-44a0-b3bc-919a132068c4")
+	)
+	(wire
+		(pts
 			(xy 171.45 162.56) (xy 187.96 162.56)
 		)
 		(stroke
@@ -1934,6 +2184,16 @@
 			(type default)
 		)
 		(uuid "5a04adf2-3292-4192-9cd6-7a0362b88720")
+	)
+	(wire
+		(pts
+			(xy 203.2 115.57) (xy 203.2 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e60f65d-7ab2-4bec-b208-67d88de86673")
 	)
 	(wire
 		(pts
@@ -2027,7 +2287,17 @@
 	)
 	(wire
 		(pts
-			(xy 84.7091 120.65) (xy 84.7091 111.76)
+			(xy 19.05 58.42) (xy 19.05 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73ad7f65-eb2e-4716-8a10-e5b5f3e6d6ae")
+	)
+	(wire
+		(pts
+			(xy 82.55 120.65) (xy 82.55 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2044,6 +2314,26 @@
 			(type default)
 		)
 		(uuid "7a39f8b2-7474-4059-9553-5890767534bc")
+	)
+	(wire
+		(pts
+			(xy 209.55 15.24) (xy 209.55 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c5babd4-4367-4940-9a01-b34ca5c1d78e")
+	)
+	(wire
+		(pts
+			(xy 83.82 62.23) (xy 83.82 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d6f8427-b8f9-45c7-b45c-7170193227a0")
 	)
 	(wire
 		(pts
@@ -2077,6 +2367,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 62.23) (xy 83.82 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "839a1933-111f-4719-96fe-c4b8ec33ce82")
+	)
+	(wire
+		(pts
 			(xy 20.32 109.22) (xy 30.48 109.22)
 		)
 		(stroke
@@ -2097,7 +2397,7 @@
 	)
 	(wire
 		(pts
-			(xy 84.7091 111.76) (xy 93.98 111.76)
+			(xy 82.55 111.76) (xy 93.98 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2124,6 +2424,16 @@
 			(type default)
 		)
 		(uuid "91a7a79f-5864-411b-9007-9706af786c74")
+	)
+	(wire
+		(pts
+			(xy 83.82 73.66) (xy 85.09 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91db9eaf-21b1-451e-a24a-4cb35d6db46d")
 	)
 	(wire
 		(pts
@@ -2157,6 +2467,26 @@
 	)
 	(wire
 		(pts
+			(xy 203.2 58.42) (xy 19.05 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95688da2-5ce4-4b3f-b16c-f3c377950eb1")
+	)
+	(wire
+		(pts
+			(xy 217.17 59.69) (xy 217.17 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "961a86c1-5618-4d91-8cdd-dd6375adb49c")
+	)
+	(wire
+		(pts
 			(xy 54.61 64.77) (xy 54.61 76.2)
 		)
 		(stroke
@@ -2174,6 +2504,16 @@
 			(type default)
 		)
 		(uuid "98306c40-d9f2-4b43-993b-c8027a548468")
+	)
+	(wire
+		(pts
+			(xy 217.17 71.12) (xy 203.2 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98397b32-7dea-4b96-93b8-a4777a13ca46")
 	)
 	(wire
 		(pts
@@ -2197,6 +2537,26 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 104.14) (xy 82.55 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aadffc87-7d29-4ee1-a0d2-3a3270672a18")
+	)
+	(wire
+		(pts
+			(xy 218.44 48.26) (xy 217.17 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab97ece2-9e02-40d9-9734-ee3f9cdd100a")
+	)
+	(wire
+		(pts
 			(xy 132.08 146.05) (xy 19.05 146.05)
 		)
 		(stroke
@@ -2207,7 +2567,7 @@
 	)
 	(wire
 		(pts
-			(xy 84.7091 73.66) (xy 84.7091 66.04)
+			(xy 83.82 73.66) (xy 83.82 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2254,6 +2614,16 @@
 			(type default)
 		)
 		(uuid "b7bbeb0c-9490-44a0-9d8e-52db9aaa6348")
+	)
+	(wire
+		(pts
+			(xy 83.82 15.24) (xy 83.82 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b868342c-30d7-4db0-80db-1d2c4ebfcaa6")
 	)
 	(wire
 		(pts
@@ -2347,6 +2717,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 106.68) (xy 147.32 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c409e063-a2d9-4b10-8fe6-a9419a95376a")
+	)
+	(wire
+		(pts
 			(xy 64.77 83.82) (xy 54.61 83.82)
 		)
 		(stroke
@@ -2367,6 +2747,26 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 115.57) (xy 203.2 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6d3c048-fffa-4142-bf28-3fbe8c92e464")
+	)
+	(wire
+		(pts
+			(xy 182.88 92.71) (xy 182.88 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7473aaa-26e3-419b-b9a0-b6a1342e9e11")
+	)
+	(wire
+		(pts
 			(xy 190.5 148.59) (xy 26.67 148.59)
 		)
 		(stroke
@@ -2384,6 +2784,16 @@
 			(type default)
 		)
 		(uuid "c84d183b-2acf-4df8-8a88-acf25532f06b")
+	)
+	(wire
+		(pts
+			(xy 83.82 15.24) (xy 209.55 15.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8739b39-893c-4a9a-b5be-e75eb71fdf77")
 	)
 	(wire
 		(pts
@@ -2447,6 +2857,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 48.26) (xy 196.85 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd5b5c7b-4f6b-4a06-8bc5-d57bf53c8e49")
+	)
+	(wire
+		(pts
 			(xy 26.67 148.59) (xy 26.67 163.83)
 		)
 		(stroke
@@ -2477,7 +2897,7 @@
 	)
 	(wire
 		(pts
-			(xy 84.7091 66.04) (xy 95.25 66.04)
+			(xy 83.82 66.04) (xy 95.25 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2504,6 +2924,26 @@
 			(type default)
 		)
 		(uuid "e4f00e92-4e58-42fd-ad94-217d56f1a9df")
+	)
+	(wire
+		(pts
+			(xy 201.93 36.83) (xy 201.93 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7112ca3-51c5-45a7-a65c-16010deac315")
+	)
+	(wire
+		(pts
+			(xy 82.55 104.14) (xy 82.55 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8f76ea6-84b1-4643-b8af-6db41bae6bab")
 	)
 	(wire
 		(pts
@@ -2537,6 +2977,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 33.02) (xy 85.09 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee071b89-302b-4419-bece-b81367dd4f79")
+	)
+	(wire
+		(pts
 			(xy 19.05 29.21) (xy 19.05 17.78)
 		)
 		(stroke
@@ -2547,7 +2997,7 @@
 	)
 	(wire
 		(pts
-			(xy 84.7091 19.05) (xy 99.06 19.05)
+			(xy 83.82 19.05) (xy 99.06 19.05)
 		)
 		(stroke
 			(width 0)
@@ -2601,7 +3051,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5pF cap:GRM022C81C222KE01L"
+		(property "Footprint" "5pf cap:GRM022C81C222KE01L"
 			(at 39.37 113.97 0)
 			(effects
 				(font
@@ -2721,7 +3171,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Touch sensor IC:SON50P200X200X60-9N"
+		(property "Footprint" "Weekone:SON50P200X200X60-9N"
 			(at 116.84 127.94 0)
 			(effects
 				(font
@@ -2837,6 +3287,139 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDREF")
+		(at 165.1 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "13c675c0-e0ec-4e59-8f5a-be506427161f")
+		(property "Reference" "#PWR041"
+			(at 165.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 165.1 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 165.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d34e8b5-d30b-4699-9bad-af7a5ef32952")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 229.87 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1586a214-fd94-4dd3-9f3c-e7f90e962a94")
+		(property "Reference" "#PWR032"
+			(at 236.22 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 233.68 48.2599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 229.87 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d3096a3-19d3-4f3f-9162-179fc8602613")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Touch sensor:AT42QT1011-MAHR")
 		(at 20.32 119.38 0)
 		(unit 1)
@@ -2862,7 +3445,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Touch sensor IC:SON50P200X200X60-9N"
+		(property "Footprint" "Weekone:SON50P200X200X60-9N"
 			(at 52.07 214.3 0)
 			(effects
 				(font
@@ -3003,7 +3586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2nF cap:GCM21"
+		(property "Footprint" "2nf cap:GCM21"
 			(at 226.06 121.59 0)
 			(effects
 				(font
@@ -3190,7 +3773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Touch sensor IC:SON50P200X200X60-9N"
+		(property "Footprint" "Weekone:SON50P200X200X60-9N"
 			(at 179.07 169.85 0)
 			(effects
 				(font
@@ -3331,7 +3914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Touch sensor IC:SON50P200X200X60-9N"
+		(property "Footprint" "Weekone:SON50P200X200X60-9N"
 			(at 179.07 216.84 0)
 			(effects
 				(font
@@ -3472,7 +4055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Touch sensor IC:SON50P200X200X60-9N"
+		(property "Footprint" "Weekone:SON50P200X200X60-9N"
 			(at 116.84 168.58 0)
 			(effects
 				(font
@@ -3613,7 +4196,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5pF cap:GRM022C81C222KE01L"
+		(property "Footprint" "5pf cap:GRM022C81C222KE01L"
 			(at 107.95 115.24 0)
 			(effects
 				(font
@@ -3769,6 +4352,72 @@
 			(project "Weekone"
 				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 162.56 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b69f411-e85b-473a-ba12-226510f397cf")
+		(property "Reference" "#PWR047"
+			(at 162.56 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 162.56 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 162.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3316c67a-dae4-42c6-b71c-d329bdd6769a")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -3932,7 +4581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2nF cap:GCM21"
+		(property "Footprint" "2nf cap:GCM21"
 			(at 226.06 188.9 0)
 			(effects
 				(font
@@ -4318,7 +4967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5pF cap:GRM022C81C222KE01L"
+		(property "Footprint" "5pf cap:GRM022C81C222KE01L"
 			(at 102.87 207.95 0)
 			(effects
 				(font
@@ -4414,6 +5063,72 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
+		(at 36.83 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "52d184c7-50b9-4017-925b-8c81100e4167")
+		(property "Reference" "#PWR045"
+			(at 36.83 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 36.83 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 36.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 36.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "184cd39f-044f-47bc-b52a-ab99006d67c7")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
 		(at 81.28 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4473,6 +5188,72 @@
 			(project "Weekone"
 				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 165.1 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "595ef4b3-886d-4425-b2f4-86cab940b0c7")
+		(property "Reference" "#PWR042"
+			(at 165.1 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 165.1 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 165.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0876f26c-3e30-4371-95fe-a41251dc4e63")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -4571,7 +5352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Touch sensor IC:SON50P200X200X60-9N"
+		(property "Footprint" "Weekone:SON50P200X200X60-9N"
 			(at 116.84 215.57 0)
 			(effects
 				(font
@@ -4712,7 +5493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2nF cap:GCM21"
+		(property "Footprint" "2nf cap:GCM21"
 			(at 226.06 155.88 0)
 			(effects
 				(font
@@ -4801,6 +5582,73 @@
 			(project "Weekone"
 				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 229.87 104.14 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e0c99b2-fd6b-4592-8224-859b4cd8fac6")
+		(property "Reference" "#PWR037"
+			(at 236.22 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 233.68 104.1399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 229.87 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6bfbac30-8a6b-4e84-a26a-cfd0c0e1f437")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -4965,7 +5813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2nF cap:GCM21"
+		(property "Footprint" "2nf cap:GCM21"
 			(at 226.06 178.74 0)
 			(effects
 				(font
@@ -5219,7 +6067,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5pF cap:GRM022C81C222KE01L"
+		(property "Footprint" "5pf cap:GRM022C81C222KE01L"
 			(at 167.64 209.22 0)
 			(effects
 				(font
@@ -5308,6 +6156,72 @@
 			(project "Weekone"
 				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 102.87 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "787d4b65-56db-488f-addc-e8376368e0b2")
+		(property "Reference" "#PWR046"
+			(at 102.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 102.87 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 102.87 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 102.87 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 102.87 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a12e870e-5024-4259-8c4f-ead19f6ceb11")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -5471,7 +6385,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5pF cap:GRM022C81C222KE01L"
+		(property "Footprint" "5pf cap:GRM022C81C222KE01L"
 			(at 38.1 160.96 0)
 			(effects
 				(font
@@ -5591,7 +6505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Touch sensor IC:SON50P200X200X60-9N"
+		(property "Footprint" "Weekone:SON50P200X200X60-9N"
 			(at 50.8 124.13 0)
 			(effects
 				(font
@@ -5707,6 +6621,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDREF")
+		(at 229.87 25.4 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "93143333-1b10-402c-b60c-420bfdbf8ae8")
+		(property "Reference" "#PWR030"
+			(at 236.22 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 233.68 25.3999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 229.87 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e9d85118-6d91-4254-9bca-e489becac4ca")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 182.88 80.01 270)
 		(unit 1)
@@ -5768,6 +6749,73 @@
 			(project "Weekone"
 				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
 					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 229.87 36.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "939659d5-dc23-4574-b432-389a105223de")
+		(property "Reference" "#PWR031"
+			(at 236.22 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 233.68 36.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 229.87 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "20e6446d-bbe5-4413-a492-d1c4476b04ab")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -5908,6 +6956,139 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDREF")
+		(at 102.87 140.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "95aea637-fe34-4152-aa4f-1c017d9efcb3")
+		(property "Reference" "#PWR040"
+			(at 102.87 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 102.87 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 102.87 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 102.87 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 102.87 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8b80f2f4-0ac3-4ba7-9f4a-5c5c855180ed")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 229.87 115.57 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9819c362-4b7c-40ce-85a0-cd695152a7e0")
+		(property "Reference" "#PWR038"
+			(at 236.22 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 233.68 115.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 229.87 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d75af82-dd6c-4cf3-9499-f0a6157e945f")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 120.65 38.1 270)
 		(unit 1)
@@ -5975,6 +7156,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDREF")
+		(at 38.1 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9eb895eb-c9d0-4b39-b541-f282119fc55a")
+		(property "Reference" "#PWR039"
+			(at 38.1 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 38.1 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 38.1 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5bfa4290-2ef0-4152-8210-89edb0eb6aef")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "2pF:GCM2165C2A202JA16D")
 		(at 217.17 48.26 0)
 		(unit 1)
@@ -6000,7 +7247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2nF cap:GCM21"
+		(property "Footprint" "2nf cap:GCM21"
 			(at 226.06 144.45 0)
 			(effects
 				(font
@@ -6186,7 +7433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5pF cap:GRM022C81C222KE01L"
+		(property "Footprint" "5pf cap:GRM022C81C222KE01L"
 			(at 39.37 205.41 0)
 			(effects
 				(font
@@ -6281,6 +7528,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDREF")
+		(at 229.87 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a822b90f-d0aa-44ce-8040-d63871ceea3d")
+		(property "Reference" "#PWR033"
+			(at 236.22 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 233.68 59.6899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 229.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "47d19267-1e44-410a-866f-2c35882cde6d")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "2pF:GCM2165C2A202JA16D")
 		(at 217.17 71.12 0)
 		(unit 1)
@@ -6306,7 +7620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2nF cap:GCM21"
+		(property "Footprint" "2nf cap:GCM21"
 			(at 226.06 167.31 0)
 			(effects
 				(font
@@ -6395,6 +7709,73 @@
 			(project "Weekone"
 				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
 					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 229.87 71.12 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ae7af067-8f5d-4aea-a932-bc497f3389c0")
+		(property "Reference" "#PWR034"
+			(at 236.22 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 233.68 71.1199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 229.87 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a8b6723-a115-4732-ac42-9443069f5352")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -6559,7 +7940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5pF cap:GRM022C81C222KE01L"
+		(property "Footprint" "5pf cap:GRM022C81C222KE01L"
 			(at 104.14 162.23 0)
 			(effects
 				(font
@@ -6654,6 +8035,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDREF")
+		(at 36.83 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bad9c75a-983e-4335-bd68-9804c62e5771")
+		(property "Reference" "#PWR044"
+			(at 36.83 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 36.83 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 36.83 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 36.83 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "85093d11-7612-48e6-b1c5-ecdc20184d47")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "2pF:GCM2165C2A202JA16D")
 		(at 217.17 36.83 0)
 		(unit 1)
@@ -6679,7 +8126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2nF cap:GCM21"
+		(property "Footprint" "2nf cap:GCM21"
 			(at 226.06 133.02 0)
 			(effects
 				(font
@@ -6933,7 +8380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2nF cap:GCM21"
+		(property "Footprint" "2nf cap:GCM21"
 			(at 226.06 211.76 0)
 			(effects
 				(font
@@ -7053,7 +8500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2nF cap:GCM21"
+		(property "Footprint" "2nf cap:GCM21"
 			(at 226.06 200.33 0)
 			(effects
 				(font
@@ -7239,7 +8686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5pF cap:GRM022C81C222KE01L"
+		(property "Footprint" "5pf cap:GRM022C81C222KE01L"
 			(at 167.64 162.23 0)
 			(effects
 				(font
@@ -7505,6 +8952,139 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDREF")
+		(at 229.87 92.71 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e383ce6e-54c4-479d-b8ab-69751184ce35")
+		(property "Reference" "#PWR036"
+			(at 236.22 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 233.68 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 229.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "91b4f34e-9e78-4889-abb6-c68bde3c1c0f")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 102.87 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e4de445c-ae17-4443-b1af-ab4bfd184a38")
+		(property "Reference" "#PWR043"
+			(at 102.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 102.87 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 102.87 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 102.87 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 102.87 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a01bf734-0776-41c1-854b-94d7c974be6b")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Touch sensor:AT42QT1011-MAHR")
 		(at 19.05 76.2 0)
 		(unit 1)
@@ -7530,7 +9110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Touch sensor IC:SON50P200X200X60-9N"
+		(property "Footprint" "Weekone:SON50P200X200X60-9N"
 			(at 50.8 171.12 0)
 			(effects
 				(font
@@ -7713,6 +9293,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDREF")
+		(at 229.87 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eed5bd6c-03b6-43e4-a61a-5c2821c778f7")
+		(property "Reference" "#PWR035"
+			(at 236.22 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 233.68 82.5499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 229.87 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "88ba6ddf-c6b7-4027-ae11-e818667df250")
+		)
+		(instances
+			(project "Weekone"
+				(path "/ae2bc792-1508-4495-994e-0dd3fee886e8"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 54.61 81.28 270)
 		(unit 1)
@@ -7805,7 +9452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5pF cap:GRM022C81C222KE01L"
+		(property "Footprint" "5pf cap:GRM022C81C222KE01L"
 			(at 167.64 113.97 0)
 			(effects
 				(font
@@ -7925,7 +9572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Touch sensor IC:SON50P200X200X60-9N"
+		(property "Footprint" "Weekone:SON50P200X200X60-9N"
 			(at 179.07 126.67 0)
 			(effects
 				(font
