@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=AT42QT1011-MAHR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=1.1
+Released=2019-08-01 12:20:01
+Downloaded=2026-10-11 05:24:03
+3D=Y

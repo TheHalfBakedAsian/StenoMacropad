@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "GCM2165C2A202JA16D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-24-11:31:11)
+    (mountForm default
+        (footprintRef "GCM21")
+        (spec "System")
+    )
+)

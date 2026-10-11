@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "GRM022C81C222KE01L"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "GRM022C81C222KE01L")
+        (spec "default")
+    )
+)

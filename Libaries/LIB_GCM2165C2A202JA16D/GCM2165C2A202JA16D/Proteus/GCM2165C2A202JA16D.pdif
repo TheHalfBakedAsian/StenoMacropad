@@ -1,0 +1,113 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "GCM2165C2A202JA16D"
+   (description "Chip Multilayer Ceramic Capacitors for Automotive (Powertrain/Safety), 1.6 x 0.8 (0603)")
+   (family "CAP")
+   (package "GCM21")
+   (attribute "Datasheet Link" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM2165C2A202JA16-01A.pdf")
+   (attribute "Geometry.Height" "1.4mm")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Manufacturer_Name" "Murata Electronics")
+   (attribute "Manufacturer_Part_Number" "GCM2165C2A202JA16D")
+   (gate
+    (symbol "GCM2165C2A202JA16D")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "GCM2165C2A202JA16D"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "GCM21"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 0.625)
+      (pt 1 0.625)
+      (pt 1 -0.625)
+      (pt -1 -0.625)
+      (pt -1 0.625))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.3 1.65)
+      (pt 2.3 1.65)
+      (pt 2.3 -1.65)
+      (pt -2.3 -1.65)
+      (pt -2.3 1.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 0.525)
+      (pt 0 -0.525))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.8 0.1)
+      (arc (pt -1.800 0.100) (pt -1.900 -0.100) (pt -1.700 0.100) (start 180.0) (sweep 90.0))
+      (pt -1.8 -0.1)
+      (arc (pt -1.800 -0.100) (pt -1.900 -0.100) (pt -1.700 0.100) (start 180.0) (sweep -90.0))
+      (pt -1.8 0.1))))
+   (leg 1 (pt -0.950 0.000) (padstack 0))
+   (leg 2 (pt 0.950 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.700 1.300 0 0 90.000))
+   )
+   (model "GCM2165C2A202JA16D.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

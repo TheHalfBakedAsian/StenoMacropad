@@ -1,0 +1,16 @@
+.AT42QT1011-MAHR :1 ;MICROCHIP - AT42QT1011-MAHR - CAPACITIVE TOUCH SENSOR, 1 CH, UDFN-8
+SON50P200X200X60-9N
+*STM IC
+*NGS
+*PLB 1="SNSK" 2="N/C_1" 3="N/C_2" 4="VSS" 5="OUT" 6="SYNC/MODE" 7="VDD" 8="SNS" 9="EP"
+*MXP 9
+*DFN AT42QT1011-MAHR
+~!Mouser Part Number (556-AT42QT1011-MAHR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/AT42QT1011-MAHR?qs=YCa%2FAAYMW03Z9vaJZZjHhQ%3D%3D)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (AT42QT1011-MAHR)
+~!Link Datasheet (http://ww1.microchip.com/downloads/en/DeviceDoc/40001947A.pdf)
+~!Height (0.6mm)
+~!3D_Model (AT42QT1011-MAHR)
+AT42QT1011-MAHR
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

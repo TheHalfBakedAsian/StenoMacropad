@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GCM2165C2A202JA16D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GCM2165C2A202JA16D" (!) = "", "GCM21", "Other", "", "", "Chip Multilayer Ceramic Capacitors for Automotive (Powertrain/Safety), 1.6 x 0.8 (0603)", "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM2165C2A202JA16-01A.pdf", "1.4 mm"
+END_PART
+
+END.

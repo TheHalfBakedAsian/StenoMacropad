@@ -1,0 +1,106 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "GRM0225C1E5R0CA03L"
+   (description "MLCC, 01005")
+   (family "CAP")
+   (package "GRM022C81C222KE01L")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/GRM0225C1E5R0CA03L.pdf")
+   (attribute "Geometry.Height" "0.22mm")
+   (attribute "Mouser Part Number" "81-GRM0225C1E5R0CA3L")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM0225C1E5R0CA3L")
+   (attribute "Manufacturer_Name" "Murata Electronics")
+   (attribute "Manufacturer_Part_Number" "GRM0225C1E5R0CA03L")
+   (gate
+    (symbol "GRM0225C1E5R0CA03L")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "GRM0225C1E5R0CA03L"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "GRM022C81C222KE01L"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.2 -0.1)
+      (pt 0.2 -0.1)
+      (pt 0.2 0.1)
+      (pt -0.2 0.1)
+      (pt -0.2 -0.1))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.28 1.115)
+      (pt 1.28 1.115)
+      (pt 1.28 -1.115)
+      (pt -1.28 -1.115)
+      (pt -1.28 1.115))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 0)
+      (arc (pt -0.800 0.000) (pt -0.800 -0.050) (pt -0.700 0.050) (start 180.0) (sweep -180.0))
+      (pt -0.7 0)
+      (arc (pt -0.700 0.000) (pt -0.800 -0.050) (pt -0.700 0.050) (start 180.0) (sweep .0))
+      (pt -0.8 0))))
+   (leg 1 (pt -0.190 0.000) (padstack 0))
+   (leg 2 (pt 0.190 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.180 0.230 0 0 90.000))
+   )
+   (model "GRM0225C1E5R0CA03L.stp"
+    (euler 0 0 0)
+    (offset 0 0 -0.009999999776482582)
+   )
+  )
+ )
+)

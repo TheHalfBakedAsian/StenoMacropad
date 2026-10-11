@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM0225C1E5R0CA03L
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=3.1
+Released=2024-04-30 22:31:28
+Downloaded=2026-10-11 06:28:04
+3D=Y

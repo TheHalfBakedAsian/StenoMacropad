@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRM0225C1E5R0CA03L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GRM0225C1E5R0CA03L" (!) = "", "GRM022C81C222KE01L", "Other", "81-GRM0225C1E5R0CA3L", "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM0225C1E5R0CA3L", "MLCC, 01005", "https://componentsearchengine.com/Datasheets/1/GRM0225C1E5R0CA03L.pdf", "0.22 mm"
+END_PART
+
+END.

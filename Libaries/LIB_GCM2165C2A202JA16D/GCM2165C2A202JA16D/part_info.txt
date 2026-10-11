@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GCM2165C2A202JA16D
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=3.1
+Released=2024-04-24 11:31:13
+Downloaded=2026-10-11 06:37:46
+3D=Y
