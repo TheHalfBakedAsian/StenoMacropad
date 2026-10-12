@@ -17,7 +17,7 @@
 | [AT42QT1011-MAHR](https://www.mouser.com/en/ProductDetail/Microchip-Technology/AT42QT1011-MAHR?qs=YCa%2FAAYMW03Z9vaJZZjHhQ%3D%3D&srsltid=AU7gw4Wr-by6Z-YmPg2qxymwwK3TmZIEkAaJd-lqDDsoP41ZgauvMple) | The sensor for touch to act as an input | 9 | $0.77 | $6.93 | [Mouser](https://www.mouser.com/en/ProductDetail/Microchip-Technology/AT42QT1011-MAHR?qs=YCa%2FAAYMW03Z9vaJZZjHhQ%3D%3D&srsltid=AU7gw4Wr-by6Z-YmPg2qxymwwK3TmZIEkAaJd-lqDDsoP41ZgauvMple) |
 | [XIAO-ESP32-C3-DIP](https://www.amazon.com/Seeed-Studio-XIAO-ESP32C3-Microcontroller/dp/B0B94JZ2YF/ref=sr_1_1_sspa?crid=1E13BXDE556AC&dib=eyJ2IjoiMSJ9.DAFRtSpLbsS6Xf8TnqQnM_5p7nq9jpGTynd2DJYg00NXBPaoZT3QimmJ7u-NYtoa_Mj6p5ftsvZlb7FClBphMO2xRkHluXEkmWT9qw11k-uObTV8QO-axi7bynnemKMoRi54NV1Phk-jiSzCqGTCZlkdY8C5rgcMR4QbF1J803wxizzn1NP_8gU_tZWg5GbuTwpwIlP5BRzKFMkktKdJ3_CZo3rwRrQ9X-2fBWDoVvA.2-QoLHW4d-JZA_gFIaT2T0lEFtOOgBieREWxpF-YmWo&dib_tag=se&keywords=seeed%2Bxiao%2Besp32-c3&qid=1791766429&sprefix=SEEED%2Bxiao%2Besp%2Caps%2C169&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | The brain (MCU) to take inputs into outputs | 1 | $9.90 | $9.90 | [SEEED studio (amazon)](https://www.amazon.com/Seeed-Studio-XIAO-ESP32C3-Microcontroller/dp/B0B94JZ2YF/ref=sr_1_1_sspa?crid=1E13BXDE556AC&dib=eyJ2IjoiMSJ9.DAFRtSpLbsS6Xf8TnqQnM_5p7nq9jpGTynd2DJYg00NXBPaoZT3QimmJ7u-NYtoa_Mj6p5ftsvZlb7FClBphMO2xRkHluXEkmWT9qw11k-uObTV8QO-axi7bynnemKMoRi54NV1Phk-jiSzCqGTCZlkdY8C5rgcMR4QbF1J803wxizzn1NP_8gU_tZWg5GbuTwpwIlP5BRzKFMkktKdJ3_CZo3rwRrQ9X-2fBWDoVvA.2-QoLHW4d-JZA_gFIaT2T0lEFtOOgBieREWxpF-YmWo&dib_tag=se&keywords=seeed%2Bxiao%2Besp32-c3&qid=1791766429&sprefix=SEEED%2Bxiao%2Besp%2Caps%2C169&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
 | **Parts subtotal** | — | — | — | **$21.60** | — |
-| **Tax & shipping** | — | — | — | **$9.84** | — |
-| **Total** | — | — | — | **$31.44** | — |
+| **Tax & shipping** | — | — | — | **$8.84** | — |
+| **Total** | — | — | — | **$30.44** | — |
 
-**$1.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$0.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
