@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2,C3,C4,C5,C6,C7,C8,C9","9","GRM0225C1E5R0CA03L","","","","5pf cap:GRM022C81C222KE01L","https://componentsearchengine.com/Datasheets/1/GRM0225C1E5R0CA03L.pdf"
+"C10,C11,C12,C13,C14,C15,C16,C17,C18","9","GCM2165C2A202JA16D","","","","2nf cap:GCM21","https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM2165C2A202JA16-01A.pdf"
+"IC1,IC2,IC3,IC4,IC5,IC6,IC7,IC8,IC9","9","AT42QT1011-MAHR","","","","Weekone:SON50P200X200X60-9N","http://ww1.microchip.com/downloads/en/DeviceDoc/40001947A.pdf"
+"U1","1","XIAO-ESP32-C3-DIP","","","","Xiao:XIAO-ESP32S3-DIP",""
