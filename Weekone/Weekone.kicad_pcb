@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "./")
 		)
 	)
 	(net 0 "")
@@ -4981,6 +4981,7 @@
 		(property "Reference" "C5"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "1b3bb207-6c5f-48f8-b6a7-c3a75f6a9f34")
 			(effects
 				(font
@@ -10081,20 +10082,28 @@
 		(uuid "a18a1e4b-d1cf-47dd-aa99-2925dd0d7b8d")
 	)
 	(segment
+		(start 168.475 107.225)
+		(end 165.45 104.2)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 34)
+		(uuid "87120d99-ba12-4da9-8d77-d87dc1776c21")
+	)
+	(segment
+		(start 168.475 105.5)
+		(end 168.475 107.225)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 34)
+		(uuid "8733233f-8eae-4219-b7f8-2a9e188feed8")
+	)
+	(segment
 		(start 165.45 104.2)
 		(end 164.6 104.2)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 34)
-		(uuid "2d8054d3-4c42-4b6d-b296-29e184830664")
-	)
-	(segment
-		(start 169.2 107.95)
-		(end 165.45 104.2)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 34)
-		(uuid "70f820ae-4bbd-4936-86d4-994aff33587d")
+		(uuid "e10615e8-d18a-4f77-972b-02e492a7cc8f")
 	)
 	(segment
 		(start 135.925 108.8)

@@ -1,4 +1,7 @@
 # The Steno Macropad
+**Note: in the journal some hours are logged on one day despite being done on differnt days because I didn't realise how this worked and waited**
+
+
 The Steno-style macro-pad is designed to allow multiple keystrokes simultaneously to create new outputs. With conductive sensors, it creates a thin, portable *wired* macro-pad that still serves the functions of a much larger version.
 ![alt text](image-5.png)
 
