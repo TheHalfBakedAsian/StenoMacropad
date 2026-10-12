@@ -17,7 +17,7 @@
 | [AT42QT1011-MAHR](https://www.mouser.com/en/ProductDetail/Microchip-Technology/AT42QT1011-MAHR?qs=YCa%2FAAYMW03Z9vaJZZjHhQ%3D%3D&srsltid=AU7gw4Wr-by6Z-YmPg2qxymwwK3TmZIEkAaJd-lqDDsoP41ZgauvMple) | The sensor for touch to act as an input | 9 | $0.77 | $6.93 | [Mouser](https://www.mouser.com/en/ProductDetail/Microchip-Technology/AT42QT1011-MAHR?qs=YCa%2FAAYMW03Z9vaJZZjHhQ%3D%3D&srsltid=AU7gw4Wr-by6Z-YmPg2qxymwwK3TmZIEkAaJd-lqDDsoP41ZgauvMple) |
 | [XIAO-ESP32-C3-DIP](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | The brain (MCU) to take inputs into outputs | 1 | $4.99 | $4.99 | [SEEED studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | **Parts subtotal** | — | — | — | **$16.69** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$16.69** | — |
+| **Tax & shipping** | — | — | — | **$32.01** | — |
+| **Total** | — | — | — | **$48.70** | — |
 
-$13.31 left of the tier's funding.
+**$18.70 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
