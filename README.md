@@ -1,5 +1,6 @@
 # The Steno Macropad
 The Steno-style macro-pad is designed to allow multiple keystrokes simultaneously to create new outputs. With conductive sensors, it creates a thin, portable *wired* macro-pad that still serves the functions of a much larger version.
+![alt text](image-5.png)
 
 ### Code functionality
 The keyboard works by taking all inputs from each of the capacitive sensors and filling in their respective states into a larger bitmap to compare to a predefined table of char arrays to print out to the keyboard. I made it using char arrays of characters, because I have had difficulties otherwise, and it's pretty nice for coding to have a quick list of all your common phrases when autocorrect fails.
